@@ -5,4 +5,4 @@ model TestModel
 equation
     der(x) = -a*x;
     annotation(experiment(StopTime=1));
-end TestModel
+end TestModel;
